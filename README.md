@@ -12,7 +12,7 @@ Hello! I'm George Marques, also known as `vnen` or `xoshy` around the web.
 
 ## More about me
 
-I'm a programmer based on São Paulo - Brazil. Currently I'm working for the [Godot Engine](https://github.com/godotengine/godot) project as the maintainer of GDScript (their custom scripting language).
+I'm a software engineer based on São Paulo - Brazil. Currently I'm the CEO of [Vertex Ludi](https://www.vertexludi.com), a company that offers support and consulting for Godot Engine users, and I'm also  working for the [Godot Engine](https://github.com/godotengine/godot) project itself as the maintainer of GDScript (their custom scripting language).
 
 I learned programming when I was about 7 years old by drawing with Basic in a 386 computer with MS-DOS, after my brother taught me. Also playing a bit with DBase in the very same computer. Over time I got to learn some other things by myself, like Visual Basic, Delphi, Web stuff like HTML, JavaScript, VBScript (that was thing), ASP (not ASP.Net), PHP, and the list goes on. Jack of all trades master of none.
 
